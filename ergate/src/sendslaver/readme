@@ -1,0 +1,11 @@
+go版本-->go version go1.5 linux/amd64
+#依赖包
+zookeeper包-->gozk
+https://wiki.ubuntu.com/gozk
+$ sudo apt-get install libzookeeper-dev
+$ goinstall launchpad.net/gozk
+$ bzr branch lp:gozk
+集合包-->github.com/emirpasic/gods
+获取系统指标包-->github.com/shirou/gopsutil
+命令行工具-->gosl
+redis包-->go-redis
